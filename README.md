@@ -48,7 +48,7 @@ A web-based application to manage car rentals, including managing cars, customer
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/rental-mobil.git
+   git clone https://github.com/agisnarevaldo/rental-mobil-crud-php.git
    ```
 
 2. Move the project folder to your web server directory (e.g., `htdocs` for XAMPP).
